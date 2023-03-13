@@ -1,0 +1,6 @@
+D:\19.11.2860\calculatorConsoleAP\calculatorConsoleAP\bin\Debug\calculatorConsoleAP.exe.config
+D:\19.11.2860\calculatorConsoleAP\calculatorConsoleAP\obj\Debug\calculatorConsoleAP.csprojResolveAssemblyReference.cache
+D:\19.11.2860\calculatorConsoleAP\calculatorConsoleAP\bin\Debug\calculatorConsoleAP.exe
+D:\19.11.2860\calculatorConsoleAP\calculatorConsoleAP\bin\Debug\calculatorConsoleAP.pdb
+D:\19.11.2860\calculatorConsoleAP\calculatorConsoleAP\obj\Debug\calculatorConsoleAP.exe
+D:\19.11.2860\calculatorConsoleAP\calculatorConsoleAP\obj\Debug\calculatorConsoleAP.pdb
